@@ -8,5 +8,11 @@ print(c)
 a =4-2
 print (a)
 b =6
-b+=3
+b+=3  #increment value(-=decrement)(*=multiply)
 print(b)
+d =5>4  #d use for true, fals(comparision operator !=,<=,>=.etc)
+print (d)
+
+a =31.2
+t =type(a)
+print (t)
