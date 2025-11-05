@@ -1,4 +1,4 @@
-# Simple Calculator
+//calculator
 
 print("Select operation:")
 print("1. Add")
